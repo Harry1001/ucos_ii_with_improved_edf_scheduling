@@ -1,0 +1,2 @@
+# ucos_ii_with_improved_edf_scheduling
+大三第二学期嵌入式系统概论课程实验：为windows移植版ucos_ii添加edf调度。
